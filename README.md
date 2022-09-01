@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-22.svg" width="48" height="48" alt="github" />
       </a>
       <br>Github
     </td>
