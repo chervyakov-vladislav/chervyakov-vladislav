@@ -91,7 +91,7 @@
   </tr> 
 </table>
 
->  disign
+>  design
  
 <table width='100%'>
   <tr>
