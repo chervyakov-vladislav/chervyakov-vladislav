@@ -10,6 +10,7 @@
 * [ ] Пройти курс по JavaScript в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
 * [ ] Пройти курс по React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
 * [ ] Создать порфолио на react
+* [ ] Создать порфолио на vue
 * [ ] Сменить сферу деятельности и найти работу мечты во frontend
 <!-- TODO-IST:END -->
 
@@ -121,4 +122,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chervyakov-vladislav&show_icons=true&locale=en&layout=compact&theme=react" alt="chervyakov" />
 </a>
 
+
 - :airplane: &nbsp;**[Telegram](https://t.me/vladislav_chervyakov)**
+- :camera: &nbsp;**[Behance](https://www.behance.net/chervyakov)**
