@@ -6,12 +6,11 @@
 <!-- TODO-IST:START -->
 * [x] Изучение верстки
 * [x] Изучение UX/UI
-* [x] Освоить workflow технологии (git, gulp, webpack, и.т.д.)
-* [ ] Пройти курс по JavaScript в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
-* [ ] Пройти курс по React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
+* [x] Освоить frontend tooling (git, gulp, webpack, и.т.д.)
+* [ ] Пройти курс по JavaScript и React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
 * [ ] Создать порфолио на react
 * [ ] Создать порфолио на vue
-* [ ] Сменить сферу деятельности и найти работу мечты во frontend
+* [ ] Сменить сферу деятельности на frontend
 <!-- TODO-IST:END -->
 
 
