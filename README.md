@@ -14,7 +14,13 @@
 <!-- TODO-IST:END -->
 
 
-## Стек технологий
+### Что я умею
+
+* [x] Верстка burger <a href="https://chervyakov-vladislav.github.io/burger/dist/" target="_blank">landing page</a> (<a href="https://github.com/chervyakov-vladislav/burger" target="_blank">репозиторий</a>)
+* [x] Верстка online-zoo <a href="https://chervyakov-vladislav.github.io/online-zoo/online-zoo/" target="_blank">page</a> (<a href="https://github.com/chervyakov-vladislav/online-zoo" target="_blank">репозиторий</a>)
+* [x] Алгоритмические задачи на JS  (<a href="https://github.com/chervyakov-vladislav/basic-js" target="_blank">репозиторий - 1</a>, <a href="https://github.com/chervyakov-vladislav/basic-js-ds" target="_blank">репозиторий - 2</a>)
+
+### Стек технологий
 
 >  frontend
  
@@ -116,7 +122,7 @@
   </tr> 
 </table>
 
-## Социальные сети
+### Социальные сети
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chervyakov-vladislav&show_icons=true&locale=en&layout=compact&theme=react" alt="chervyakov" />
 </a>
