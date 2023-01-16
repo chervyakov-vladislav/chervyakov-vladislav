@@ -17,7 +17,7 @@
 
 * [x] <a href="https://chervyakov-vladislav.github.io/gem-puzzle/" target="_blank">Игра</a> в пятнашки на JS  (<a href="https://github.com/chervyakov-vladislav/gem-puzzle" target="_blank">репозиторий</a>)
 * [x] <a href="https://chervyakov-vladislav.github.io/song-bird/" target="_blank">Квиз</a> на JS  (<a href="https://github.com/chervyakov-vladislav/song-bird" target="_blank">репозиторий</a>)
-* [x] Верстка burger <a href="https://chervyakov-vladislav.github.io/burger/dist/" target="_blank">landing page</a> (<a href="https://github.com/chervyakov-vladislav/burger" target="_blank">репозиторий</a>)
+* [x] Верстка burger <a href="https://chervyakov-vladislav.github.io/burger/" target="_blank">landing page</a> (<a href="https://github.com/chervyakov-vladislav/burger" target="_blank">репозиторий</a>)
 * [x] Верстка online-zoo <a href="https://chervyakov-vladislav.github.io/online-zoo/online-zoo/" target="_blank">page</a> (<a href="https://github.com/chervyakov-vladislav/online-zoo" target="_blank">репозиторий</a>)
 
 ### Стек технологий
