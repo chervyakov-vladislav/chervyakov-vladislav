@@ -2,23 +2,25 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я изучаю JS и еще несколько интересных технологий</h3>
 
+🗺️ **Что я умею**
+
+* [x] MERN <a href="https://mern-app-ruddy.vercel.app/" target="_blank">приложение</a>. Блог  (<a href="https://github.com/chervyakov-vladislav/mern-app" target="_blank">репозиторий</a>)
+* [x] Клиент-серверное <a href="https://chervyakov-vladislav.github.io/async-race/" target="_blank">приложение-гонки</a> на TS  (<a href="https://github.com/chervyakov-vladislav/async-race" target="_blank">репозиторий</a>)
+* [x] Клиент-серверное <a href="https://chervyakov-vladislav.github.io/rs-clone/" target="_blank">приложение</a> на TS. Клон kinopoisk  (<a href="https://github.com/chervyakov-vladislav/rs-clone" target="_blank">репозиторий</a>)
+* [x] <a href="https://chervyakov-vladislav.github.io/gem-puzzle/" target="_blank">Игра</a> в пятнашки на JS  (<a href="https://github.com/chervyakov-vladislav/gem-puzzle" target="_blank">репозиторий</a>)
+* [x] <a href="https://chervyakov-vladislav.github.io/song-bird/" target="_blank">Квиз</a> на JS  (<a href="https://github.com/chervyakov-vladislav/song-bird" target="_blank">репозиторий</a>)
+* [x] Верстка burger <a href="https://chervyakov-vladislav.github.io/burger/" target="_blank">landing page</a> (<a href="https://github.com/chervyakov-vladislav/burger" target="_blank">репозиторий</a>)
+* [x] Верстка online-zoo <a href="https://chervyakov-vladislav.github.io/online-zoo/online-zoo/" target="_blank">page</a> (<a href="https://github.com/chervyakov-vladislav/online-zoo" target="_blank">репозиторий</a>)
+
 🗺️ **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Изучение верстки
 * [x] Изучение UX/UI
 * [x] Освоить frontend tooling (git, gulp, webpack, и.т.д.)
-* [ ] Пройти курс по JavaScript и React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
-* [ ] Создать порфолио на react и vue
+* [x] Пройти курс по JavaScript и React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
+* [ ] Создать порфолио на react
 * [ ] Сменить сферу деятельности на frontend
 <!-- TODO-IST:END -->
-
-
-### Что я умею
-
-* [x] <a href="https://chervyakov-vladislav.github.io/gem-puzzle/" target="_blank">Игра</a> в пятнашки на JS  (<a href="https://github.com/chervyakov-vladislav/gem-puzzle" target="_blank">репозиторий</a>)
-* [x] <a href="https://chervyakov-vladislav.github.io/song-bird/" target="_blank">Квиз</a> на JS  (<a href="https://github.com/chervyakov-vladislav/song-bird" target="_blank">репозиторий</a>)
-* [x] Верстка burger <a href="https://chervyakov-vladislav.github.io/burger/" target="_blank">landing page</a> (<a href="https://github.com/chervyakov-vladislav/burger" target="_blank">репозиторий</a>)
-* [x] Верстка online-zoo <a href="https://chervyakov-vladislav.github.io/online-zoo/online-zoo/" target="_blank">page</a> (<a href="https://github.com/chervyakov-vladislav/online-zoo" target="_blank">репозиторий</a>)
 
 ### Стек технологий
 
@@ -26,6 +28,12 @@
  
 <table width='100%'>
   <tr>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>typescript
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
