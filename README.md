@@ -1,10 +1,9 @@
-<h1 align="center">Hello, hello, my name is Vladislav!
+<h1 align="center">Hi there, my name is Vladislav!
 <img src="images/Hi.gif" height="32"/></h1>
 
 ## About me
 
-I’m Frontend Engineer. I have worked at a number of companies gaining teamwork and a lot of skills.
-As well I have experience with building big projects from scrath.
+I’m a Frontend Engineer. I have worked at several companies, gaining teamwork experience and developing a wide range of skills. Additionally, I have experience building large projects from scratch.
 
 <img align="right" src="images/coder3.gif" width="500" height="320" />
 
