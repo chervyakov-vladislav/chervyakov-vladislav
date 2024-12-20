@@ -6,7 +6,7 @@
 I’m Frontend Engineer. I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with building big projects from scrath.
 
-<img align="right" src="images/coder3.gif" width="400" height="240" />
+<img align="right" src="images/coder3.gif" width="500" height="320" />
 
 I am most skilled in:
 
