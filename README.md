@@ -10,7 +10,6 @@ I am most skilled in:
 - Javascript
 - Typescript
 - React
-- Next
 - MobX
 - Redux
 - CSS
